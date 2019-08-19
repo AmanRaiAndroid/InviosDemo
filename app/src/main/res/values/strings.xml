@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InviosDemo</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+
+    <string name="user_name">User Name</string>
+    <string name="email">Email Id</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="bob">DOB</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
